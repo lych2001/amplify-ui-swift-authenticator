@@ -21,7 +21,7 @@
 "authenticator.field.username.placeholder" = "Enter your username";
 "authenticator.field.password.label" = "Password";
 "authenticator.field.password.placeholder" = "Enter your password";
-"authenticator.field.confirmPassword.label" = "Confirm password";
+"authenticator.field.confirmPassword.label" = "Confirm Password";
 "authenticator.field.confirmPassword.placeholder" = "Re-enter your password";
 "authenticator.field.email.label" = "Email";
 "authenticator.field.email.placeholder" = "Enter your email";
@@ -31,9 +31,9 @@
 "authenticator.field.diallingCode.placeholder" = "+";
 "authenticator.field.code.label" = "Verification Code";
 "authenticator.field.code.placeholder" = "Enter your verification code";
-"authenticator.field.newPassword.label" = "New password";
+"authenticator.field.newPassword.label" = "New Password";
 "authenticator.field.newPassword.placeholder" = "Enter your new password";
-"authenticator.field.confirmNewPassword.label" = "Confirm password";
+"authenticator.field.confirmNewPassword.label" = "Confirm Password";
 "authenticator.field.confirmNewPassword.placeholder" = "Re-enter your new password";
 "authenticator.field.address.label" = "Address";
 "authenticator.field.address.placeholder" = "Enter your address";
@@ -62,7 +62,7 @@
 "authenticator.signIn.title" = "Sign In";
 "authenticator.signIn.button.forgotPassword" = "Forgot password?";
 "authenticator.signIn.button.signIn" = "Sign In";
-"authenticator.signIn.button.createAccount" = "Create account";
+"authenticator.signIn.button.createAccount" = "Create Account";
 
 /* Confirm Sign In with Password view */
 "authenticator.confirmSignInWithNewPassword.title" = "Set a new password";
@@ -125,26 +125,26 @@
 "authenticator.continueSignInWithTOTPSetup.button.backToSignIn" = "Back to Sign In";
 
 /* Reset Password view */
-"authenticator.resetPassword.title" = "Reset your password";
-"authenticator.resetPassword.button.sendCode" = "Send code";
+"authenticator.resetPassword.title" = "Reset your Password";
+"authenticator.resetPassword.button.sendCode" = "Send Code";
 "authenticator.resetPassword.button.backToSignIn" = "Back to Sign In";
 
 /* Confirm Reset Password view */
-"authenticator.confirmResetPassword.title" = "Reset your password";
+"authenticator.confirmResetPassword.title" = "Reset your Password";
 "authenticator.confirmResetPassword.button.submit" = "Submit";
 "authenticator.confirmResetPassword.button.backToSignIn" = "Back to Sign In";
 
 /* Sign Up view */
 "authenticator.signUp.title" = "Create Account";
 "authenticator.signUp.button.forgotPassword" = "Forgot password?";
-"authenticator.signUp.button.createAccount" = "Create account";
+"authenticator.signUp.button.createAccount" = "Create Account";
 "authenticator.signUp.button.backToSignIn" = "Back to Sign In";
 
 /* Confirm Sign Up view */
-"authenticator.confirmSignUp.title" = "Confirm your account";
+"authenticator.confirmSignUp.title" = "Confirm your Account";
 "authenticator.confirmSignUp.lostCode" = "Lost your code?";
 "authenticator.confirmSignUp.button.submit" = "Submit";
-"authenticator.confirmSignUp.button.sendCode" = "Send code";
+"authenticator.confirmSignUp.button.sendCode" = "Send Code";
 "authenticator.confirmSignUp.button.backToSignIn" = "Back to Sign In";
 
 /* Verify User view */
